@@ -1,5 +1,4 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Wajid Ansari</h1>
 <h3 align="center">A Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.DrQ9r0UM3pZwCrGXo-8d6QHaEI?pid=ImgDet&rs=1">
@@ -15,8 +14,6 @@
 - 💬 Ask me about **Core Java, Spring, Spring Boot, SQL, DSA**
 
 - 📫 How to reach me **ansariwajid9999@gmail.com**
-
-- 📄 Know about my experiences [Resume -> https://drive.google.com/file/d/1PG8md4BBOaZi05UTU-2OBkr9bZJveuEo/view?usp=sharing](Resume -> https://drive.google.com/file/d/1PG8md4BBOaZi05UTU-2OBkr9bZJveuEo/view?usp=sharing)
 
 - ⚡ Fun fact **Football Lover**
 
@@ -36,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansariwajid9999&show_icons=true&locale=en" alt="ansariwajid9999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansariwajid9999&" alt="ansariwajid9999" /></p>
-
