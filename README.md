@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/wajid99999" target="blank"><img src="https://img.shields.io/twitter/follow/wajid99999?logo=twitter&style=for-the-badge" alt="wajid99999" /></a> </p>
 
-- 🔭 I’m currently Trainee at **Acciojob**
+- 🔭 I’m currently Trainee at **Acciojob** | EX SDE @TGH Software Solutions
 
 - 💬 Ask me about **Core Java, DSA, Spring Boot, SQL**
 
